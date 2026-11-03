@@ -3,7 +3,6 @@
 **Course:** Artificial Intelligence – BSCS 4th Semester  
 **Topic:** Knowledge-Based Systems and Rule-Based Expert Systems  
 **Environment:** Python 3, Google Colab or VS Code  
-**Estimated time:** 2 hours
 
 ---
 
